@@ -97,7 +97,7 @@ joblib>=1.0.0
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/23092003e/Churn-Prediction-Retention-Strategy
    cd Churn-Prediction-Retention-Strategy
    ```
 
